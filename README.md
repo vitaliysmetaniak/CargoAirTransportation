@@ -7,7 +7,8 @@ Develop a program to work with information about the companies involved air tran
 * Airlines.
 * Airports.
 * Transportation schedule.
-## At the start of the program, a form with a list of airlines should be displayed. The user can add a new company record, edit or delete an existing one. From the main form, the user can view a list of airports with which a company works, with the ability to add, edit and delete information about the airport. Also on the main form should be the ability to call the form to view the flight schedule of each company. Provide the ability to sort airports by runway length, display all flights that depart on odd days.
+
+At the start of the program, a form with a list of airlines should be displayed. The user can add a new company record, edit or delete an existing one. From the main form, the user can view a list of airports with which a company works, with the ability to add, edit and delete information about the airport. Also on the main form should be the ability to call the form to view the flight schedule of each company. Provide the ability to sort airports by runway length, display all flights that depart on odd days.
 Airlines:
 1. Name;
 2. The city;
